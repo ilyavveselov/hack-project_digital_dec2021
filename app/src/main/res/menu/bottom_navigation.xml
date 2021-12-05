@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Домашняя"/>
+
+    <item
+        android:id="@+id/otherFragment"
+        android:icon="@drawable/ic_baseline_domain_24"
+        android:title="Гайдер"/>
+
+    <item
+        android:id="@+id/learningFragment"
+        android:icon="@drawable/ic_baseline_work_24"
+        android:title="Наставник"/>
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="Профиль"/>
+
+</menu>

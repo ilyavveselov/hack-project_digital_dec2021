@@ -1,0 +1,2 @@
+rootProject.name = "sprezzatura"
+include ':app'
