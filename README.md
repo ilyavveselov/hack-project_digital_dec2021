@@ -1,36 +1,26 @@
-<h4>Реализованная функциональность</h4>
-<ul>
-    <li>Навигация между страницами с помощью панели;</li>
-    <li>Новости.</li>
-</ul> 
-<h4>Особенность проекта в следующем:</h4>
-<ul>
- <li>Дружелюбный и ненавязчивый гайдер, который поможет разобраться с организационными моментами, а также связаться с наставником и влиться в коллектив.</li>
- </ul>
-<h4>Основной стек технологий:</h4>
-<ul>
-	<li>Android: Kotlin</li>
-	<li>Git</li>
-</ul>
+## Features
+- Pages navigate
+- News
 
-СРЕДА ЗАПУСКА
-------------
-Требуется установленная IDE Android Studio
+## Appointment
+- A friendly and unobtrusive assistant who will help you deal with organizational issues, as well as contact a mentor and join the team.
 
-ВИДЕОДЕМОНСТРАЦИЯ
-------------
-https://drive.google.com/file/d/1bUaeSJr8YbexTr3uioj12wcIfT7dHWWo/view?usp=sharing
-------------
+## Tech-stack
+- Android: Kotlin
+- Git
+
+## Dependency and env
+- IDE Android Studio
+
+## Demo
+- [google drive](https://drive.google.com/file/d/1bUaeSJr8YbexTr3uioj12wcIfT7dHWWo/)
 
 
-УСТАНОВКА
-------------
-### Установка пакета выполняется клонированием репозитория.
-------------
+## Install
+- `git clone git@github.com:ilyavveselov/hack-project_digital_dec2021.git`
+- Build
 
-РАЗРАБОТЧИКИ
-
-<h4>Веселов Илья капитан https://t.me/@blurred_blue </h4>
-<h4>Болотаев Егор UI дизайнер https://t.me/@FaeryD </h4>
-<h4>Мерзин Альберт fullstack https://t.me/@berteek </h4>
-
+## Developers
+- Veselov Ilya, PM, [telegram](https://t.me/@blurred_blue)
+- Bolotaev Egor, UI, [telegram](https://t.me/@FaeryD)
+- Merzin Albert, Coding, [telegram](https://t.me/@berteek)
